@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-tracker-backend",
+  "version": "1.0.0",
+  "description": "Backend for a portfolio tracker website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Sarvesh Kulkarni",
+  "license": "ISC"
+}
